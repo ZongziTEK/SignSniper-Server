@@ -15,7 +15,7 @@
         "ASPNETCORE_HTTP_PORTS": "2350"
       },
       "publishAllPorts": true,
-      "useSSL": false
+      "useSSL": false,
     },
     "WSL": {
       "commandName": "WSL2",
